@@ -6,8 +6,13 @@ with open("README.md", "r") as readme_file:
 requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
+<<<<<<< HEAD
     name="notebookc",
     version="0.0.5",
+=======
+    name="notebook_converter",
+    version="0.0.1",
+>>>>>>> 1abb5eb... change name
     author="Jeff Hale",
     author_email="jeffmshale@gmail.com",
     description="A package to convert your Jupyter Notebook",
