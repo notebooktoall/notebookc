@@ -7,10 +7,14 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
 <<<<<<< HEAD
+<<<<<<< HEAD
     name="notebookc",
     version="0.0.5",
 =======
     name="notebook_converter",
+=======
+    name="notebookconv",
+>>>>>>> 2c9cc53... change name
     version="0.0.1",
 >>>>>>> 1abb5eb... change name
     author="Jeff Hale",
