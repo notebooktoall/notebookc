@@ -10,7 +10,7 @@ requirements = [
     'requests==2'
 ]
 setup(
-    name="notebook_converter",
+    name="notebookconv",
     version="0.0.1",
     author="Jeff Hale",
     author_email="jeffmshale@gmail.com",
