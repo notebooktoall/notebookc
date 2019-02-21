@@ -11,7 +11,7 @@ requirements = [
 ]
 setup(
     name="notebookc",
-    version="0.0.1",
+    version="0.0.5",
     author="Jeff Hale",
     author_email="jeffmshale@gmail.com",
     description="A package to convert your Jupyter Notebook",
