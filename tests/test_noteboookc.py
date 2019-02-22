@@ -1,7 +1,6 @@
 """Tests for `notebookc` package."""
 import pytest
 from notebookc import notebookc
-from notebookc import b
 
 
 def test_convert(capsys):
