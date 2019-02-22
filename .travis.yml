@@ -6,3 +6,4 @@ install:
   - pip install -e .
 script:
   - pytest
+after_success: coveralls
