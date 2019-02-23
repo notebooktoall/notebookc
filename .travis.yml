@@ -5,5 +5,5 @@ install:
   - pip install -r requirements_dev.txt
   - pip install -e .
 script:
-  - pytest --cov=notebook
+  - pytest --cov=myproj tests/
 after_success: coveralls
