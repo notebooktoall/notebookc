@@ -10,6 +10,13 @@ Welcome to notebookc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   readme
+   installation
+   usage
+   contributing
+   code_of_conduct
+   history
+
 
 
 Indices and tables
